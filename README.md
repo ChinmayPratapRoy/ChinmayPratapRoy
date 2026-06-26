@@ -1,4 +1,5 @@
-# Chinmay Pratap Roy
+<h1 align="center">Chinmay Pratap Roy</h1>
+
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **chinmayprataproy@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -25,6 +26,7 @@ Email Me 👉 ✉️ **chinmayprataproy@gmail.com** For Collaboration/Project or
 </div>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=ChinmayPratapRoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ChinmayPratapRoy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChinmayPratapRoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
