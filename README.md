@@ -26,10 +26,11 @@
 
 # 📊 GitHub Stats:
 
+
+<!-- GitHub Stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ChinmayPratapRoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChinmayPratapRoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ChinmayPratapRoy&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChinmayPratapRoy&theme=dark&hide_border=false" />
-</p>
+
