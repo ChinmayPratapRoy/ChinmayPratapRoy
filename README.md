@@ -3,7 +3,7 @@
 <h3 align="center">CSE Student | C++ Developer | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;C%2B%2B+Developer;Learning+DSA+%26+System+Design;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Competitive+Programmer;C%2B%2B+Developer;Learning+DSA+%26+System+Design!" />
 </p>
 
 
